@@ -7,14 +7,13 @@ Basic Terminal User Interface Tool automated with Python.
 2. Shashwat Agarwal
 3. Vadlamani Lakshmi Bhargavi
 # Tool Description:
-This is a basic Terminal User Interface Tool automated using Python Scripting. It is based on the OS RedHat 8 (RHEL-8). This tool can be used to automate the various setup processes which otherwise require a considerable amount of backend knowledge. 
-# The various options provides are:
+This is a basic Terminal User Interface Tool automated using Python Scripting. It is based on the OS RedHat 8 (RHEL-8). This tool can be used to automate the various setup processes which otherwise require a considerable amount of backend knowledge. The various options provides are:
  
-AWS Setup
-Hadoop Setup
-Apache Web Server Setup
-Linux Partitions
-Docker Setup
-Basic Linux Commands
+1. AWS Setup
+2. Hadoop Setup
+3. Apache Web Server Setup
+4. Linux Partitions
+5. Docker Setup
+6. Basic Linux Commands
 We have also included the option for executing the program remotely, by prompting the user for remote system's IP Address.
 
