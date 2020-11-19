@@ -7,8 +7,9 @@ Basic Terminal User Interface Tool automated with Python.
 2. Shashwat Agarwal
 3. Vadlamani Lakshmi Bhargavi
 # Tool Description:
-This is a basic Terminal User Interface Tool automated using Python Scripting. It is based on the OS RedHat 8 (RHEL-8). This tool can be used to automate the various setup processes which otherwise require a considerable amount of backend knowledge. The various options provides are:
-# 
+This is a basic Terminal User Interface Tool automated using Python Scripting. It is based on the OS RedHat 8 (RHEL-8). This tool can be used to automate the various setup processes which otherwise require a considerable amount of backend knowledge. 
+# The various options provides are:
+ 
 AWS Setup
 Hadoop Setup
 Apache Web Server Setup
